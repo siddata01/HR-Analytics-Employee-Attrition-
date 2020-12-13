@@ -1,5 +1,5 @@
 # HR_Analytics-Employee_Attrition
-Overview:
+About the project:
 
 A large company named XYZ, employs, at any given point of time, around 4000 employees. However, every
 year, many of its employees leave the company and need to be replaced with the talent pool available in the job
